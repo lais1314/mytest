@@ -4,7 +4,7 @@
 	<groupId>cn.itcast.solrj</groupId>
 	<artifactId>itcast-solrj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+	<!--biasdfa -->
 	<dependencies>
 	<dependency>
 			<groupId>org.apache.solr</groupId>
